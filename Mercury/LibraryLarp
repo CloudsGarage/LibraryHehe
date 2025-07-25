@@ -343,18 +343,18 @@ local Compkiller = {
 };
 
 Compkiller.Colors = {
-	Highlight = Color3.fromRGB(255, 255, 255),
-	Toggle = Color3.fromRGB(14, 203, 213),
-	Risky = Color3.fromRGB(251, 255, 39),
-	BGDBColor = Color3.fromRGB(22, 24, 29),
-	BlockColor = Color3.fromRGB(28, 29, 34),
-	StrokeColor = Color3.fromRGB(37, 38, 43),
-	SwitchColor = Color3.fromRGB(255, 255, 255),
-	DropColor = Color3.fromRGB(33, 35, 39),
-	MouseEnter = Color3.fromRGB(55, 58, 65),
-	BlockBackground = Color3.fromRGB(39, 40, 47),
-	LineColor = Color3.fromRGB(65, 65, 65),
-	HighStrokeColor = Color3.fromRGB(55, 55, 55),
+	Highlight = Color3.fromRGB(255, 255, 255),      -- White
+	Toggle = Color3.fromRGB(200, 200, 200),         -- Light Gray
+	Risky = Color3.fromRGB(180, 180, 180),          -- Medium Gray
+	BGDBColor = Color3.fromRGB(30, 30, 30),         -- Dark Gray
+	BlockColor = Color3.fromRGB(40, 40, 40),        -- Darker Gray
+	StrokeColor = Color3.fromRGB(60, 60, 60),       -- Mid Gray
+	SwitchColor = Color3.fromRGB(255, 255, 255),    -- White
+	DropColor = Color3.fromRGB(45, 45, 45),         -- Dark Gray
+	MouseEnter = Color3.fromRGB(70, 70, 70),        -- Medium Gray
+	BlockBackground = Color3.fromRGB(50, 50, 50),   -- Mid Gray
+	LineColor = Color3.fromRGB(100, 100, 100),      -- Light Gray
+	HighStrokeColor = Color3.fromRGB(85, 85, 85),   -- Medium Gray
 };
 
 Compkiller.Elements = {
